@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm JAY NAKASHE</h1>
 <h3 align="center">A passionate software developer with a knack for creating efficient and scalable solutions.</h3>
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT AND DATA ANALYSIS**
+- 🌱 I’m currently learning **WEB DEVELOPMENT AND DATA ANALYTICS**
 
-- 💬 Ask me about **HTML CSS JS**
+- 💬 Ask me about **HTML CSS JS, CPP**
 
 
 
