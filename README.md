@@ -24,7 +24,7 @@
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
   &nbsp;
-  <a href="https://x.com/Jay_050504" target="_blank">
+  <a href="https://x.com/Jay_050504" target="_blank"> <!-- Replace with your actual X/Twitter link -->
     <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" height="40"/>
   </a>
 </p>
@@ -38,18 +38,10 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats & Streak:</h3>
+<h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JAYHN554&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=JAYHN554&theme=github-dark&hide_border=true&fire=DD2727&ring=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</p>
-
----
-
-<h3 align="center">📅 Contribution Activity</h3>
-<p align="center">
-  <img src="https://github-contribution-graph.ezzy.codes/api?username=JAYHN554&bg_color=000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAYHN554&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
