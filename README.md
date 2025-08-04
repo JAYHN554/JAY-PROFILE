@@ -6,29 +6,34 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaynakashe&label=Profile%20views&color=0e75b6&style=flat" alt="jaynakashe" />
+  <img src="https://komarev.com/ghpvc/?username=JAYHN554&label=Profile%20views&color=0e75b6&style=flat" alt="JAYHN554" />
 </p>
 
 ---
 
-- 🌱 I’m currently diving deeper into **Web Development** and **Data Analytics**  
-- 💬 Ask me about: **HTML, CSS, JS, JAVA,PYTHON FAST API, Git, React Native, React JS,Node.js,Supabase,MYQSQL**  
+- 🌱 Currently exploring **DSA + Web Development** and **Data Science , AI/ML**  
+- 💬 Ask me about:  
+  **HTML, CSS, JavaScript, Java, Python, FastAPI, Git, React JS, React Native, Node.js, Supabase, MySQL**  
 - 🚀 Always eager to learn, build, and grow!
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/jay-nakashe-a93a55249/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40"/>
+  <a href="https://www.linkedin.com/in/jay-nakashe-a93a55249/" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/Jay_050504" target="_blank"> <!-- Replace with your actual X/Twitter link -->
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" height="40"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,react,nodejs,express,tailwind,bootstrap,sass,mysql,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,fastapi,react,reactnative,nodejs,express,supabase,tailwind,bootstrap,sass,mysql,postgres,git" />
 </p>
 
 ---
