@@ -2,7 +2,7 @@
   Hi 👋, I'm JAY NAKASHE
 </h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&width=435&lines=Passionate+Software+Developer;Web+Development+%26+Data+Analytics+Enthusiast;Lifelong+Learner+%26+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&width=435&lines=Passionate+Software+Developer;Web+Development+%26+Data+Science+Enthusiast;Lifelong+Learner+%26+Tech+Explorer" alt="Typing SVG" />
 </h3>
 
 <p align="center">
