@@ -12,7 +12,7 @@
 ---
 
 - 🌱 I’m currently diving deeper into **Web Development** and **Data Analytics**  
-- 💬 Ask me about: **HTML, CSS, JS, C++, Git, React, Node.js**  
+- 💬 Ask me about: **HTML, CSS, JS, JAVA,PYTHON FAST API, Git, React Native, React JS,Node.js,Supabase,MYQSQL**  
 - 🚀 Always eager to learn, build, and grow!
 
 ---
