@@ -45,10 +45,4 @@
 </p>
 
 ---
-
-<!-- Illustration of a man coding on a computer -->
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" alt="Man Coding" width="400"/>
-</p>
-
 <h3 align="center">🚀 Let's build the future together!</h3>
