@@ -24,7 +24,7 @@
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
   &nbsp;
-  <a href="https://x.com/Jay_050504" target="_blank"> <!-- Replace with your actual X/Twitter link -->
+  <a href="https://x.com/Jay_050504" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" height="40"/>
   </a>
 </p>
@@ -45,5 +45,10 @@
 </p>
 
 ---
+
+<!-- Illustration of a man coding on a computer -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" alt="Man Coding" width="400"/>
+</p>
 
 <h3 align="center">🚀 Let's build the future together!</h3>
